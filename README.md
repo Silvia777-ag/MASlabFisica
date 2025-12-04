@@ -1,2 +1,4 @@
-# MASlabFisica
+# AGUILAR GARCIA SILVIA
+LABORATORIO DE FISICA GENERAL
+GRUPO: D6
 Movimiento Armonico Simple - Proyecto
